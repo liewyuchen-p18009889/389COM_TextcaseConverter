@@ -1,0 +1,30 @@
+{
+    "extensionName": {
+      "message": "Textcase Converter",
+      "description": "Extension name."
+    },
+    "extensionDescription": {
+      "message": "Enter your text and select the case you want to convert it to.",
+      "description": "Extension description."
+    },
+    "sentence": {
+      "message": "Sentence case"
+    },
+    "uppercase": {
+      "message": "UPPERCASE"
+    },
+    "lowercase": {
+      "message": "lowercase"
+    },
+    "capitalize": {
+      "message": "Title Case"
+    },
+    "togglecase": {
+      "message": "tOGGLE"
+    },
+    "spaces": {
+      "message": "Fix multiple spaces"
+    } 
+  }
+  
+  
